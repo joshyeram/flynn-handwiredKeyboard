@@ -1,7 +1,7 @@
 # flynn
 
 ![flynn](https://i.imgur.com/0NpZqwq.jpeg)
-
+![flynn2](https://i.imgur.com/NM6HFyy.mp4)
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Joshua Chung](https://github.com/joshyeram)
