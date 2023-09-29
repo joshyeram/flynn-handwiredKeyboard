@@ -1,7 +1,9 @@
 # flynn
 <p align="center">
   <img src="https://i.imgur.com/0NpZqwq.jpeg">
-  <img2 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B4MDQ3Zmd3MWg5MG5iMmw3amFqZGYxeDh3cjMxYXNibHF6OGc1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXdNrNUmgMQvavaZFb/giphy.gif">
+</p>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B4MDQ3Zmd3MWg5MG5iMmw3amFqZGYxeDh3cjMxYXNibHF6OGc1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXdNrNUmgMQvavaZFb/giphy.gif">
 </p>
 <br />
 *A short description of the keyboard/project*
