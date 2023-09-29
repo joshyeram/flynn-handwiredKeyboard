@@ -8,7 +8,8 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B4MDQ3Zmd3MWg5MG5iMmw3amFqZGYxeDh3cjMxYXNibHF6OGc1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXdNrNUmgMQvavaZFb/giphy.gif">
 </p>
 <br />
-*A short description of the keyboard/project*
+
+A low profile, monoblock, non-split, ortho-linear, column-staggered, 42 keys, hand-wired keyboard with oled screen encased in resin
 
 * Keyboard Maintainer: [Joshua Chung](https://github.com/joshyeram)
 * Hardware Supported: *The PCBs, controllers supported*
