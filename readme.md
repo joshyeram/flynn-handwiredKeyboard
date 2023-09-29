@@ -1,6 +1,6 @@
 # flynn
 <p align="center">
-  <img src="https://imgur.com/a/O39PF4Z">
+  <img src="https://i.imgur.com/V559iy4.jpg">
 </p>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B4MDQ3Zmd3MWg5MG5iMmw3amFqZGYxeDh3cjMxYXNibHF6OGc1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXdNrNUmgMQvavaZFb/giphy.gif">
