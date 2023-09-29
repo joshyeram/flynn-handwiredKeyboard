@@ -1,12 +1,12 @@
 # flynn
-A low profile, monoblock, non-split, ortho-linear, column-staggered, 42 keys, hand-wired keyboard with oled screen encased in resin. Designed and developed a session and lifetime key press counter that can be stored on the EEPROM. 
+A low profile, monoblock, non-split, ortho-linear, column-staggered, 40 keys, hand-wired keyboard with oled screen encased in resin. Designed and developed a session and lifetime key press counter that can be stored on the EEPROM. 
 ## features
 - wpm
-- session key stroke counter
-- lifetime key stroke counter with eeprom: the current implementation comes with a +8 byte offset.
-- oled burn in prevention
+- session keystroke counter
+- lifetime keystroke counter with EEPROM: the current implementation comes with a +8 byte offset.
+- oled burn-in prevention
 - debug layer
-- custom saturn animation that speeds up relative to wpm
+- custom saturn animation that speeds up relative to WPM
 - encased in resin. completely. like completely.
 ## pics
 msg me on reddit or instagram for anything! should be @joshyeram everywhere mostly.
