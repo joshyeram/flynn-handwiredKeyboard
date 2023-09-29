@@ -6,7 +6,7 @@ A low profile, monoblock, non-split, ortho-linear, column-staggered, 42 keys, ha
 - lifetime key stroke counter
 - oled burn in prevention
 - debug layer
-- custom saturn animation with individual pixels that speeds up relative to wpm
+- custom saturn animation that speeds up relative to wpm
 <p align="center">
   <img src="https://i.imgur.com/V559iy4.jpg">
   <img src="https://i.imgur.com/I4qfsyA.jpeg">
