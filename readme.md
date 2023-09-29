@@ -8,6 +8,7 @@ A low profile, monoblock, non-split, ortho-linear, column-staggered, 42 keys, ha
 - debug layer
 - custom saturn animation that speeds up relative to wpm
 - encased in resin. completely. like completely.
+## pics
 msg me on reddit or instagram for anything! should be @joshyeram everywhere mostly.
 <p align="center">
   <img src="https://i.imgur.com/V559iy4.jpg">
