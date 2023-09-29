@@ -1,4 +1,5 @@
 # flynn
+A low profile, monoblock, non-split, ortho-linear, column-staggered, 42 keys, hand-wired keyboard with oled screen encased in resin
 <p align="center">
   <img src="https://i.imgur.com/V559iy4.jpg">
   <img src="https://i.imgur.com/I4qfsyA.jpeg">
@@ -9,7 +10,7 @@
 </p>
 <br />
 
-A low profile, monoblock, non-split, ortho-linear, column-staggered, 42 keys, hand-wired keyboard with oled screen encased in resin
+
 
 * Keyboard Maintainer: [Joshua Chung](https://github.com/joshyeram)
 * Hardware Supported: *The PCBs, controllers supported*
