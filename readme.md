@@ -20,8 +20,8 @@ A low profile, monoblock, non-split, ortho-linear, column-staggered, 42 keys, ha
 
 
 * Keyboard Maintainer: [Joshua Chung](https://github.com/joshyeram)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: pro micro
+* Hardware Availability: aliexpress, typeractive.xyz
 
 Make example for this keyboard (after setting up your build environment):
 
