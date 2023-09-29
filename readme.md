@@ -1,7 +1,5 @@
 # flynn
-A low profile, monoblock, non-split, ortho-linear, column-staggered, 42 keys, hand-wired keyboard with oled screen encased in resin.
-<br />
-A session and lifetime key press counter can be stored on the EEPROM. Current implementation comes with +8 byte offset.
+A low profile, monoblock, non-split, ortho-linear, column-staggered, 42 keys, hand-wired keyboard with oled screen encased in resin. Designed and developed a session and lifetime key press counter that can be stored on the EEPROM. The current implementation comes with a +8 byte offset.
 <p align="center">
   <img src="https://i.imgur.com/V559iy4.jpg">
   <img src="https://i.imgur.com/I4qfsyA.jpeg">
