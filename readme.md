@@ -1,6 +1,6 @@
 # flynn
 
-![flynn](imgur.com image replace me!)
+![flynn](https://i.imgur.com/0NpZqwq.jpeg)
 
 *A short description of the keyboard/project*
 
