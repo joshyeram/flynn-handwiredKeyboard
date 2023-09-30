@@ -1,5 +1,7 @@
 # flynn
 A low profile, monoblock, non-split, ortho-linear, column-staggered, 40 keys, hand-wired keyboard with oled screen encased in resin. Designed and developed a session and lifetime key press counter that can be stored on the EEPROM. 
+<br />
+https://youtu.be/SIvVcFnGaF0
 ## features
 - wpm
 - session keystroke counter
